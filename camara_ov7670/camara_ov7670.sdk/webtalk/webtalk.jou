@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:36:41 MST 2018
+# 
+# Start of session at: Wed Mar 27 01:50:41 2019
+# Process ID: 29981
+# Current directory: /opt/Xilinx/Vivado/2018.3/bin/camara_ov7670/camara_ov7670.sdk/webtalk
+# Command line: wbtcv -mode batch -source sdk_webtalk.tcl
+# Log file: /opt/Xilinx/Vivado/2018.3/bin/camara_ov7670/camara_ov7670.sdk/webtalk/webtalk.log
+# Journal file: /opt/Xilinx/Vivado/2018.3/bin/camara_ov7670/camara_ov7670.sdk/webtalk/webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl
